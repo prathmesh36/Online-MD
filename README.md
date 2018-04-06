@@ -33,7 +33,26 @@ Link: [https://www.youtube.com/watch?v=gqiR5ibbYfI](https://www.youtube.com/watc
 * [EZ Web Player](http://www.ezwebplayer.com/)
 
 ## Demo
+### Medical EStore populated using Google SpreadSheet of Registered Chemist's Inventory
+<img src="SS/1.png">
 
+### Medical Forum
+<img src="SS/2.png">
+
+### Chat with Doctors
+<img src="SS/3.png">
+
+### Medicine Search using Generic medicine names suggesting different alternate manufacturer.
+<img src="SS/4.png">
+
+### Doctor Search with Ratings and current status
+<img src="5.png">
+
+### Chemist Search with Ratings and current status
+<img src="SS/6.png">
+
+### Hospital Search
+<img src="SS/7.png">
 
 ## Built With
 
