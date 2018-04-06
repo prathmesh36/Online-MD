@@ -46,7 +46,7 @@ Link: [https://www.youtube.com/watch?v=gqiR5ibbYfI](https://www.youtube.com/watc
 <img src="SS/4.png">
 
 ### Doctor Search with Ratings and current status
-<img src="5.png">
+<img src="SS/5.png">
 
 ### Chemist Search with Ratings and current status
 <img src="SS/6.png">
