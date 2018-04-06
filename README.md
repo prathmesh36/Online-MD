@@ -33,7 +33,7 @@ Link: [https://www.youtube.com/watch?v=gqiR5ibbYfI](https://www.youtube.com/watc
 * [EZ Web Player](http://www.ezwebplayer.com/)
 
 ## Demo
-### Medical EStore populated using Google SpreadSheet of Registered Chemist's Inventory
+### Medical E-Store populated using Google SpreadSheet of Registered Chemist's Inventory
 <img src="SS/1.png">
 
 ### Medical Forum
