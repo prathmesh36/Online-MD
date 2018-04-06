@@ -57,11 +57,11 @@ Link: [https://www.youtube.com/watch?v=gqiR5ibbYfI](https://www.youtube.com/watc
 ### SMS Based Medical Help
 1                          |2                          |3                          |
 :-------------------------:|:-------------------------:|:-------------------------:|
-<img src="SS/Textit/1.png" alt="Drawing" width="250" height="400"/>  |  <img src="SS/Textit/2.png" alt="Drawing" width="250" height="400"/>  |  <img src="SS/Textit/3.png" alt="Drawing" width="250" height="400"/> |
+<img src="SS/TextIt/1.png" alt="Drawing" width="250" height="400"/>  |  <img src="SS/TextIt/2.png" alt="Drawing" width="250" height="400"/>  |  <img src="SS/TextIt/3.png" alt="Drawing" width="250" height="400"/> |
 
 4                          |5                          |6                          |
 :-------------------------:|:-------------------------:|:-------------------------:|
-<img src="SS/Textit/4.png" alt="Drawing" width="250" height="400"/>  |  <img src="SS/Textit/5.png" alt="Drawing" width="250" height="400"/>  |  <img src="SS/Textit/6.png" alt="Drawing" width="250" height="400"/>  |
+<img src="SS/TextIt/4.png" alt="Drawing" width="250" height="400"/>  |  <img src="SS/TextIt/5.png" alt="Drawing" width="250" height="400"/>  |  <img src="SS/TextIt/6.png" alt="Drawing" width="250" height="400"/>  |
 
 ## Built With
 
