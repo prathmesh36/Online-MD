@@ -73,7 +73,7 @@ Link: [https://www.youtube.com/watch?v=gqiR5ibbYfI](https://www.youtube.com/watc
 
 ## Authors
 
-* **Prathamesh Mhapsekar** - [prathmesh36](https://github.com/prathmesh36)
+* **Prathamesh Mhapsekar** - [prathmesh36](https://github.com/prathmesh36 )
 * **Mandar Mhapsekar** - [mandar10](https://github.com/mandar10)
 * **Raj Patel** 
 * **Akshay Jain**
